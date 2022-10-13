@@ -1,4 +1,4 @@
-## JSFS (Project 8)
+## JSFS (Project 10)
 ---
 ![Rajendra Pandey, Project](https://img.shields.io/badge/Rajendra%20Pandey-FSJS-orange)
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
@@ -7,7 +7,7 @@
 
 Hi
 
-This is a FSJS Live Class Project No. 8 Repo. This task taught me a lot of new things, including how to create websites using HTML and CSS. I have learn to place body background imaes, create button with lenear property and many more css properties.
+This is a FSJS Live Class Project No. 10 Repo. This task taught me a lot of new things, including how to create websites using HTML and CSS. I have learn to place body background imaes, create button with lenear property and many more css properties.
 
 I would like to say Thankyou my instructor `Hitesh Choudhary` for the guiding, mentoring and pushing me hard so that I can learn and develop this project.
 
@@ -17,7 +17,7 @@ I would like to say Thankyou my instructor `Hitesh Choudhary` for the guiding, m
 
 ### Live Link :
 
-> [Live Url](https://rajendra-project-8.netlify.app/)
+> [Live Url](https://rajendra-project-10.netlify.app/)
 
 
 ### Mockups
